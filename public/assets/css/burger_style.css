@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(226, 226, 109);
+}
+
+#logo {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(156, 39, 39);
+}
